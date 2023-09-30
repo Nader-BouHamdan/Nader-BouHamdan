@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Nader BouHamdan
+#### Mechatronics Engineer / Full Stack Engineer
+I'm Nader BouHamdan from Lebanon, I am currently a senior mechatronics engineer. I really enjoy developing Full Stack projects while learning new languages and frameworks. 
 
-<!--
-**Nader-BouHamdan/Nader-BouHamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python / Java / SQL / Angular
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on  a project for my Database Systems Course "Company Finance and Investment Management System". 
+- 🌱 I’m currently learning Machine Learning / Computer Vision 
+- 👯 I’m looking to collaborate on DevOps projects to strengthen my skills in this domain. 
+- ⚡ Fun fact: I really enjoy keyboard shortcuts! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nader-BouHamdan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://www.linkedin.com/in/naderbouhamdan/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nader-BouHamdan&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Nader-BouHamdan)  
+
