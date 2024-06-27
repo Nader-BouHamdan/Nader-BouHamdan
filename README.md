@@ -4,7 +4,6 @@ I'm Nader BouHamdan from Lebanon, I am currently a senior mechatronics engineer.
 
 Skills: Python / Java / SQL / Angular
 
-- 🔭 I’m currently working on  a project for my Database Systems Course "Company Finance and Investment Management System". 
 - 🌱 I’m currently learning Machine Learning / Computer Vision 
 - 👯 I’m looking to collaborate on DevOps projects to strengthen my skills in this domain. 
 - ⚡ Fun fact: I really enjoy keyboard shortcuts! 
